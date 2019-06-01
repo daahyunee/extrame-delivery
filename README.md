@@ -1,7 +1,8 @@
 # Project#1 극한 배달, Extrame-Delivery
 
 ### - console I/O Program
-###  자바기반의 배달 주문+관리 프로그램
+[프로젝트 소개]  
+- 자바기반의 배달 주문+관리 프로그램
 
 [개발 목적]
 1. 편리한 배달 서비스를 통해 UI/UX 제공
